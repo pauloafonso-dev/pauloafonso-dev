@@ -1,8 +1,8 @@
 ## Welcome! | Bem-vindo(a)!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-webdev&theme=aura&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-webdev&layout=compact&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloafonso-dev&theme=aura&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloafonso-dev&layout=compact&theme=aura"/>
 </div>
 
 
@@ -22,7 +22,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulo-webdev/paulo-webdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulo-webdev/paulo-webdev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulo-webdev/paulo-webdev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pauloafonso-dev/pauloafonso-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pauloafonso-dev/pauloafonso-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pauloafonso-dev/pauloafonso-dev/output/github-contribution-grid-snake.svg">
 </picture>
